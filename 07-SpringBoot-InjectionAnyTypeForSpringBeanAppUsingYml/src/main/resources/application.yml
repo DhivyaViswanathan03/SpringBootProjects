@@ -1,0 +1,29 @@
+emp:
+   info:
+      name: dhivya
+      id: 10
+
+      skills:
+      - Java
+      - Spring
+      - ORM
+
+      teamMembers:
+      - priya
+      - revathi
+      - mouli
+
+      phone-numbers:
+      - 969696
+      - 969697
+      - 969698
+
+      id-details:
+         aadhar: 85858
+         pan: 74747
+         voter: 52525
+
+      com:
+         name: navis
+         location: chennai
+         size: 300

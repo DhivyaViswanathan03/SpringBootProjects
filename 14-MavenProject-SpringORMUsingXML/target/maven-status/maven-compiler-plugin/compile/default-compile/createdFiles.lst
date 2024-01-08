@@ -1,0 +1,7 @@
+in\ineuron\service\IStudentService.class
+in\ineuron\DTO\StudentDTO.class
+in\ineuron\dao\IStudentDao.class
+in\ineuron\service\StudentServiceImpl.class
+in\ineuron\dao\StudentDaoImpl.class
+in\ineuron\BO\StudentBO.class
+in\ineuron\controller\MainApp.class
